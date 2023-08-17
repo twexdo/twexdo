@@ -8,7 +8,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://media2.giphy.com/media/78SsyN5dYIW7Na8ENG/giphy.gif?cid=ecf05e47sjv54aavkc1qp72loghyrge1ubwdft5s3kh96pmq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
