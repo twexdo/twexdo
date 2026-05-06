@@ -2,8 +2,13 @@
 
 ### Hey, I'm Adrian 👋
 
-Full Stack Developer from Romania React on the front, Node on the back.  
-I build products end to end and I get unreasonably into CI/CD and infrastructure.
+Full Stack Developer from Romania — React on the front, Node on the back.  
+I enjoy building products end-to-end, from idea to deployment… and then over-engineering the CI/CD just a little 😄
+
+Right now, this profile might look a bit empty — and that’s intentional.  
+Most of my work lives in professional projects, while older personal ones didn’t reflect the standards I aim for.
+
+So I archived them and I’m rebuilding this space properly — with clean, structured projects that represent my journey toward becoming a Senior Full-Stack Developer.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-stef--adrian--98.web.app-0a0a0a?style=flat-square&logo=firefox&logoColor=white)](https://stef-adrian-98.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-twexdo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twexdo/)
@@ -11,7 +16,7 @@ I build products end to end and I get unreasonably into CI/CD and infrastructure
 
 ---
 
-**Things I work with**
+**Tech I work with**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -25,7 +30,3 @@ I build products end to end and I get unreasonably into CI/CD and infrastructure
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twexdo&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="145" />
-</div>
